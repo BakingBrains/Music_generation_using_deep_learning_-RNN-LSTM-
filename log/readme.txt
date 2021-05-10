@@ -1,1 +1,1 @@
-Here it will save the model
+model saving directory
