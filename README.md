@@ -1,7 +1,7 @@
 # Music_generation_using_deep_learning_-RNN-LSTM-
 Generating music using LSTM with the help of ESAC folk song dataset</br>
 
-Dataset: https://kern.humdrum.org/cgi-bin/browse?l=essen%2Feuropa%2Fdeutschl </br>
+<b>Dataset</b>: https://kern.humdrum.org/cgi-bin/browse?l=essen%2Feuropa%2Fdeutschl </br>
 
 Libraries:</br>
 - music21 (pip install music21)</br>
