@@ -14,7 +14,7 @@ After installing musescore, run the music21Environment.py with the correct path 
 
 * Download and copy the dataset to <i>'Dataset'</i> folder </br>
 * The above provided file <i>'file_dataset'</i> is the generated file from the preprocessing part for folder named <i>'erk'</i> in Dataset folder</br>
-* <i>mapping.json</i>e is the json file for number of keys in the music file inside erk folder</br>
+* <i>mapping.json</i> is the json file for number of keys in the music file inside erk folder</br>
 * The trained model will be saved in log folder and used in musicgenerator.py file</br>
 
 <b>File running sequence</b>:</br>
